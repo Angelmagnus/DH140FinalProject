@@ -15,7 +15,7 @@ I could find data for information such as tweets about AI currently by scraping 
 * https://www.octoparse.com/blog/web-scraping-api-for-data-extraction-a-beginners-guide
 * https://ucmp.berkeley.edu/vertebrates/flight/evolve.html
 
-An example of a few datasets that already exist that I could use for more concrete and clean data for the final project are shown in the table below.
+A few example of datasets that already exist that I could use for more concrete and clean data for the final project are shown in the table below.
 
  Name of Dataset | Data Description/Investigation | Link to data 
  :---: | :---:| :---: 
