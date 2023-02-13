@@ -1,27 +1,21 @@
 # DH140FinalProject
 Github Repository For DH140 Final Project by Angel Coronado
 
-## Interests 
-* https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334?_auid=2020
-
-This article interests me because of the implications that the advancment of AI with widespread use has for society at large.
-
-![image.png](attachment:image.png)
-
-I am a big fan of pokemon so being able to learn how this was made would be fun.
-
-### 1  
+## Interests for Final Project
+A few topics of interest for the final project that I have include:
 * Evolution of flight
 * History of population growth in US
+* Statistics related to US wars
 
-### 2
-* Getting Data: Web Scraping and APIs
-    * This seems like it would be interesting because of how easily online data can be collected 
+However if a more, Digital Humanities related topic were to be pursued, then I would be interested to look into the article below for more information and data on current AI technology.
+* https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334?_auid=2020
 
-### 3
+I could find data for information such as tweets about AI currently by scraping Twitter APIs and performing a sentiment analysis on the resulting data. Below are a few articles on the topic of scraping APIs and where to start. 
 * https://www.blog.datahut.co/post/web-scraping-vs-api
 * https://www.octoparse.com/blog/web-scraping-api-for-data-extraction-a-beginners-guide
 * https://ucmp.berkeley.edu/vertebrates/flight/evolve.html
+
+An example of a few datasets that already exist that I could use for more concrete and clean data for the final project are shown in the table below.
 
  Name of Dataset | Data Description/Investigation | Link to data 
  :---: | :---:| :---: 
