@@ -1,23 +1,22 @@
 # DH140FinalProject
 Github Repository For DH140 Final Project by Angel Coronado
 
-## Interests for Final Project
-A few topics of interest for the final project that I have include:
-* Evolution of flight
-* History of population growth in US
-* Statistics related to US wars
+## Topic: Astronaut Records
 
-However if a more, Digital Humanities related topic were to be pursued, then I would be interested to look into the article below for more information and data on current AI technology.
-* https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334?_auid=2020
+#### Dataset:
+In 2022, the Sam Donald released a data set that archived the information on Astronauts from multiple organizations and included data on various astronauts' occupation, mission hours, military status and other personal information. Note that this data is only updated up until 2020. This data set can be accessed here:
 
-I could find data for information such as tweets about AI currently by scraping Twitter APIs and performing a sentiment analysis on the resulting data. Below are a few articles on the topic of scraping APIs and where to start. 
-* https://www.blog.datahut.co/post/web-scraping-vs-api
-* https://www.octoparse.com/blog/web-scraping-api-for-data-extraction-a-beginners-guide
-* https://ucmp.berkeley.edu/vertebrates/flight/evolve.html
+* https://corgis-edu.github.io/corgis/python/astronauts/
 
-A few example of datasets that already exist that I could use for more concrete and clean data for the final project are shown in the table below.
+#### Motivation
+As an Aerospace Engineering major with an emphasis with Astronautics I have studied various space systems and had to do analysis on many systems that go into space. I find this set interesting as it connects to the concepts I've learned in my major courses.
 
- Name of Dataset | Data Description/Investigation | Link to data 
- :---: | :---:| :---: 
- Eastern State Penitentiary Admission Book A| Record of criminals; includes, names, crime, sentence. I think I would look for trends in the data to see if certain groups were targeted more by the justice system|  https://repository.upenn.edu/mead/22/
- Nixon White House Tapes|Data on the title, time and date of recording, audiotape, recording device, geographic coordinates, participants, and a brief descriptive statement. It would be interesting to see where more conversations occured and how it correlates with major events of the Nixon Administration| https://www.archives.gov/open/nixon/37-wht-dataset-conversationlist.html
+#### Questions:
+In this project I will answer the following questions:
+* What country has the most mission time?
+* What is the average year of age of astronauts during their mission?
+* How many astronauts had extravehicular activities (EVAs)? What is the average amount they spent doing EVAs?
+* What shuttles were used the most?
+
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/Angelmagnus/DH140FinalProject/HEAD?urlpath=rstudio)
