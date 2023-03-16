@@ -4,7 +4,7 @@ Github Repository For DH140 Final Project by Angel Coronado
 ## Topic: Astronaut Records
 
 #### Dataset:
-In 2022, the Sam Donald released a data set that archived the information on Astronauts from multiple organizations and included data on various astronauts' occupation, mission hours, military status and other personal information. Note that this data is only updated up until 2020. This data set can be accessed here:
+In 2022, Sam Donald released a data set that archived the information on Astronauts from multiple organizations and included data on various astronauts' occupation, mission hours, military status and other personal information. Note that this data is only updated up until 2020. This data set can be accessed here:
 
 * https://corgis-edu.github.io/corgis/python/astronauts/
 
@@ -19,4 +19,4 @@ In this project I will answer the following questions:
 * What shuttles were used the most?
 
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/Angelmagnus/DH140FinalProject/HEAD?urlpath=rstudio)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/Angelmagnus/DH140FinalProject/main)
