@@ -2,5 +2,5 @@ matplotlib
 pandas
 numpy
 requests
-scipy.stats
+scipy
 datetime
